@@ -1,6 +1,7 @@
 input/
 *.bam
 *.sam
+*.flagstat
 *.py[cod]
 */data/*
 *.tmp
